@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="1" tests="1" time="0.386">
+<testcase classname="Login Functionality" name="2011 Manager is able to login with valid credentials" time="0.083">
+<skipped><![CDATA[Given User is on Home Page..................................................undefined
+And Click on Log in link....................................................undefined
+And Click on user name text box and type it "manager2"......................undefined
+And Click on password name text box and type it "Man1ager2!"................undefined
+And Click login button......................................................undefined
+Then Verify LISTOFUSERS text is located.....................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
